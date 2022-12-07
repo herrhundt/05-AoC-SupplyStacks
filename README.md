@@ -25,5 +25,5 @@ This program solves the 5th puzzle of <a href="https://adventofcode.com/2022">Ad
 <b>Interesting methods:</b> 
 <br>
 <ul>
-  <li> The stacks have to be build up manually and filled manually, since i was too lazy. </li> 
+  <li> The stacks have to be built up manually and filled manually, since i was too lazy. </li> 
 </ul>
